@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  "base": "/mini-seo-analyzer/",
+  base: "/mini-seo-analyzer/",
   plugins: [react()],
 })
